@@ -1,0 +1,19 @@
+﻿  spinning_cube.c
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(33,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(43,75): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(50,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(55,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(60,25): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(60,32): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(60,39): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(61,25): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(61,32): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(61,39): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(62,25): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(62,32): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(62,39): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(95,63): warning C4566: character represented by universal-character-name '\u263B' cannot be represented in the current code page (1252)
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(141,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(142,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\aryel\Desktop\Projects\Github\SpinningCube\SpinningCube\spinning_cube.c(143,18): warning C4305: '+=': truncation from 'double' to 'float'
+  SpinningCube.vcxproj -> C:\Users\aryel\Desktop\Projects\Github\SpinningCube\Debug\SpinningCube.exe
